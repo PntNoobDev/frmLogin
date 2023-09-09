@@ -1,0 +1,10 @@
+.content{
+   display: flex;
+   flex-direction: column;
+   width: 700px;
+   padding: 100px 0;
+}
+.content a{
+   position: relative;
+   text-decoration: none;
+}
